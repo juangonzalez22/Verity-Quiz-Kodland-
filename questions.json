@@ -1,0 +1,16 @@
+[
+  {
+    "question": "¿Cuál es la capital de España?",
+    "options": ["Madrid", "Barcelona", "Sevilla", "Valencia"],
+    "correct": "A",
+    "topic": "Geografía",
+    "image": null
+  },
+  {
+    "question": "¿En qué año llegó el ser humano a la Luna?",
+    "options": ["1965", "1969", "1972", "1959"],
+    "correct": "B",
+    "topic": "Historia",
+    "image": null
+  }
+]
